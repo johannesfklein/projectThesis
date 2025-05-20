@@ -1,2 +1,2 @@
-# pPoject Thesis
+# Project Thesis
 Code used in producing results for my project thesis. Everything is i the ExLeak.ipynb
